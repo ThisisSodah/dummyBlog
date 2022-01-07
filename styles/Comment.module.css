@@ -1,0 +1,12 @@
+.container{
+	display: flex;
+}
+
+.avatar{
+margin: 16px;
+}
+
+.commentBody{
+	margin-left: 8px;
+}
+
